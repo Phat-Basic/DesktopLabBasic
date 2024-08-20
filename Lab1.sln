@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1", "Lab1\Lab1.csproj", "{EE5EEABF-35F0-4365-8FAC-83A68E6A1C86}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2", "Lab1\Bai2.csproj", "{EE5EEABF-35F0-4365-8FAC-83A68E6A1C86}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuongDanCoBan", "HuongDanCoBan\HuongDanCoBan.csproj", "{CEF6B3DB-D1FC-409A-9BC9-D0DAFC988065}"
 EndProject
