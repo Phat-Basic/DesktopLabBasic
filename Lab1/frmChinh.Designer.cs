@@ -1,6 +1,6 @@
 ﻿namespace Lab1
 {
-    partial class Form1
+    partial class frmChinh
     {
         /// <summary>
         /// Required designer variable.
@@ -60,18 +60,22 @@
             // 
             // bai1ToolStripMenuItem
             // 
+            this.bai1ToolStripMenuItem.Image = global::Lab1.Properties.Resources.th__1_;
             this.bai1ToolStripMenuItem.Name = "bai1ToolStripMenuItem";
             this.bai1ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.bai1ToolStripMenuItem.Text = "Bai1";
+            this.bai1ToolStripMenuItem.Click += new System.EventHandler(this.bai1ToolStripMenuItem_Click);
             // 
             // bai2ToolStripMenuItem
             // 
+            this.bai2ToolStripMenuItem.Image = global::Lab1.Properties.Resources.th;
             this.bai2ToolStripMenuItem.Name = "bai2ToolStripMenuItem";
             this.bai2ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.bai2ToolStripMenuItem.Text = "Bai2";
             // 
             // bai3ToolStripMenuItem
             // 
+            this.bai3ToolStripMenuItem.Image = global::Lab1.Properties.Resources.OIP;
             this.bai3ToolStripMenuItem.Name = "bai3ToolStripMenuItem";
             this.bai3ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.bai3ToolStripMenuItem.Text = "Bai3";
