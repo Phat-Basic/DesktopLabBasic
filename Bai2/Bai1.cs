@@ -16,5 +16,29 @@ namespace Lab1
         {
             InitializeComponent();
         }
+
+
+        private void textDongia_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rfmXanh_CheckedChanged(object sender, EventArgs e)
+        {
+            textDongia.Text = "22000";
+
+        }
+
+        private void rfmDo_CheckedChanged(object sender, EventArgs e)
+        {
+            textDongia.Text = "21000";
+
+        }
+
+        private void rfmVang_CheckedChanged(object sender, EventArgs e)
+        {
+            textDongia.Text = "20000";
+
+        }
     }
 }
